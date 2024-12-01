@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+# 👋 Hi, I'm Kez.
+# Welcome to My GitHub Profile!
+[I'm a Delivery Driver currently training to be a Software Engineer  using Python.]
 <!--
 **kezcodes123/kezcodes123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
