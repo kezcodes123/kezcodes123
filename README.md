@@ -10,18 +10,13 @@
 
 🚗 Experienced driver trainer, now exploring software engineering.
 
-🎮 Interested in web development, automation, and model railway controllers.
+🎮 Interested in web development, automation, and any kind of programming.
 
 🎵 Enjoys Lana Del Rey & Eminem.
 
 🛠️ Tech Stack
 
-
-
-
-
-
-📌 Current Projects
+📌 Past Projects
 
 🏛️ Event Hall Booking System – WordPress plugin integrating Google Calendar.
 
@@ -31,12 +26,4 @@
 
 📊 GitHub Stats
 
-
-
-
 📫 Connect with Me
-
-
-
-
-💡 Always learning, always building! 🚀
