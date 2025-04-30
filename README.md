@@ -1,29 +1,35 @@
-👋 Hey, I'm Kez!
+# 👋 Hi, I'm Kez
 
+### 💼 What I Do
 
+- 🧩 Custom plugin development (WordPress, Django, more)
+- 🛠️ Backend systems (PHP, Python, REST APIs)
+- 🔌 Integrations (Google Calendar API, Discord Bots, etc.)
+- 🎛️ Tools for automation, moderation, and email services
+- 🎯 Focused on performance, privacy, and maintainability
 
-🚀 Developer | Tech Enthusiast | Problem Solver
+---
 
-🔥 About Me
+### 🧪 Projects in Motion
 
-💻 Passionate about software development and tech innovation.
+- **Horus** — A Discord moderation and reputation bot with server-level intelligence
+- **Kez Mail** — Lightweight, personal email platform (SMTP + IMAP stack with Django interface)
+- **EventSync** — Google Calendar integration for venue/event management
 
-🚗 Experienced driver trainer, now exploring software engineering.
+---
 
-🎮 Interested in web development, automation, and any kind of programming.
+### 🛠 Tech Stack
 
-🎵 Enjoys Lana Del Rey & Eminem.
+`Python` · `Django` · `PHP` · `Postfix` · `MySQL` · `Linux` · `HTML/CSS` · `JavaScript`
 
-🛠️ Tech Stack
+---
 
-📌 Past Projects
+### 🔗 Connect
 
-🏛️ Event Hall Booking System – WordPress plugin integrating Google Calendar.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kez%20Software-blue?logo=linkedin)]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/keiron-doyle-889486136/))
+[![Website](https://img.shields.io/badge/Website-kezsoftware.com-informational)](https://kezsoftware.com)
+[![Email](https://img.shields.io/badge/Email-contact@kezsoftware.com-red)](mailto:contact@kezsoftware.com)
 
-❤️ Dating Website – Building a unique matchmaking platform.
+---
 
-🚂 Model Railway Controller – Exploring automation solutions.
-
-📊 GitHub Stats
-
-📫 Connect with Me
+> “Build what matters. Ignore the noise.”
