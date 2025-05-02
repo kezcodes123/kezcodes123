@@ -3,33 +3,34 @@
 ### 💼 What I Do
 
 - 🧩 Custom plugin development (WordPress, Django, more)
-- 🛠️ Backend systems (PHP, Python, REST APIs)
-- 🔌 Integrations (Google Calendar API, Discord Bots, etc.)
+- 🛠️ Backend systems (Python, Django, REST APIs)
+- 🔌 Integrations (Google Calendar API, Discord Bots, Blockchain)
 - 🎛️ Tools for automation, moderation, and email services
-- 🎯 Focused on performance, privacy, and maintainability
+- 🎯 Focused on performance, security, and scalability
 
 ---
 
 ### 🧪 Projects in Motion
 
-- **Horus** — A Discord moderation and reputation bot with server-level intelligence
-- **Kez Mail** — Lightweight, personal email platform (SMTP + IMAP stack with Django interface)
-- **EventSync** — Google Calendar integration for venue/event management
+- **Horus Security Bot** — A comprehensive Discord moderation and security bot with advanced filtering
+- **Live Performance Jukebox** — Real-time music request system with WebSockets and performer queue management
+- **Web3 Clicker Game** — Blockchain-based game built on Worldcoin ecosystem with NFT integration
 
 ---
 
 ### 🛠 Tech Stack
 
-`Python` · `Django` · `PHP` · `Postfix` · `MySQL` · `Linux` · `HTML/CSS` · `JavaScript`
+`Python` · `Django` · `PostgreSQL` · `Web3` · `Discord.py` · `Linux` · `HTML/CSS` · `JavaScript`
 
 ---
 
 ### 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kez%20Software-blue?logo=linkedin)]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/keiron-doyle-889486136/))
-[![Website](https://img.shields.io/badge/Website-kezsoftware.com-informational)](https://kezsoftware.com)
-[![Email](https://img.shields.io/badge/Email-contact@kezsoftware.com-red)](mailto:contact@kezsoftware.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keiron%20Doyle-blue?logo=linkedin)](https://www.linkedin.com/in/keiron-doyle-889486136/)
+[![Website](https://img.shields.io/badge/Website-kezcodes.uk-informational)](https://kezcodes.uk)
+[![GitHub](https://img.shields.io/badge/GitHub-kezcodes123-black?logo=github)](https://github.com/kezcodes123)
+[![Email](https://img.shields.io/badge/Email-kez@kezcodes.uk-red)](mailto:kez@kezcodes.uk)
 
 ---
 
-> “Build what matters. Ignore the noise.”
+> "Creative tools, clean code, real solutions. Let's build something smart."
